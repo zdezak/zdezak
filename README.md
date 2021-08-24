@@ -4,7 +4,7 @@
 
 Основной язык Kotlin.
 
-Завершил курс от Google по разработке под Android на Kotlin на [Udacity](https://classroom.udacity.com/courses/ud9012)/
+Завершил курс от Google по разработке под Android на Kotlin на [Udacity](https://classroom.udacity.com/courses/ud9012)
 
 Сейчас закрепляю теорию на практике, создавая приложения с применением полученных знаний.
 Код, apk и скриншоты можно увидеть в репозиториях проектов.

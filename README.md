@@ -11,6 +11,23 @@
 
 Проекты:
 
++ [Тестовое задание по работе с LastFM (Compose)](https://github.com/zdezak/getInfoAboutAlbums). [(Fragment)](https://github.com/zdezak/getArtist). (23.12.2021)<details>
+   
+    +Описание: Приложэение получает данные с API и выводит на экран. По кнопке отправляется новый запрос.
+    
+    +Используемые технологии:
+   
+        - Retrofit для отправки запросов,
+   
+        - Moshi для конвертирования ответа в data class,
+   
+        - В Fragment для отображения RecyclerView. Список и Сетка для изображений,
+   
+        - В Compose для отображения LazyList и LazyList для изображений.
+   
+</details>
+
+
 + [getmeaxolotl](https://github.com/zdezak/getmeaxolotl). (24.08.2021)<details>
    
     +Описание: Приложэение получает данные с API и выводит на экран. По кнопке отправляется новый запрос.

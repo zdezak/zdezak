@@ -11,6 +11,8 @@
 
 Проекты:
 
++ [Текущий проект](https://github.com/zdezak/Coder)
+
 + [Тестовое задание по работе с LastFM (Compose)](https://github.com/zdezak/getInfoAboutAlbums). [(Fragment)](https://github.com/zdezak/getArtist). (23.12.2021)<details>
    
     +Описание: Приложэение получает данные с API и выводит на экран. По кнопке отправляется новый запрос.
